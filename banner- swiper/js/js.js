@@ -1,4 +1,4 @@
-;(function () {
+$(function () {
     var timer=null;
     var pic_index=0;
 
